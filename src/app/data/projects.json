@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "Billing Microservice", "description": "DDD + CQRS billing microservice in ASP.NET Core.", "tech": [".NET 8","EF Core","MassTransit"], "github": "https://github.com/Divyatiwari002/billing-ms" },
+  { "id": 2, "title": "SMS Notification Service", "description": "SMS sending service integrated with Twilio.", "tech": ["C#","Twilio","Azure Functions"], "github": "https://github.com/Divyatiwari002/sms-service" },
+  { "id": 3, "title": "Portfolio Website", "description": "This Angular portfolio website.", "tech": ["Angular","TypeScript","CSS"], "github": "https://github.com/Divyatiwari002" },
+  { "id": 4, "title": "Inventory Management", "description": "Web app for inventory tracking.", "tech": ["Angular",".NET","SQL Server"], "github": "https://github.com/Divyatiwari002/inventory" },
+  { "id": 5, "title": "Payment Gateway Integration", "description": "Secure payment integration and reconciliation.", "tech": ["C#","Stripe","Azure"], "github": "" },
+  { "id": 6, "title": "Chatbot POC", "description": "Customer support chatbot integration.", "tech": ["Node.js","Azure Bot Service","AI"], "github": "" },
+  { "id": 7, "title": "Order Processing Pipeline", "description": "Event-driven pipeline using MassTransit.", "tech": [".NET","RabbitMQ","Docker"], "github": "" },
+  { "id": 8, "title": "Reporting Dashboard", "description": "Analytics dashboard with charts.", "tech": ["Angular","Recharts","ASP.NET API"], "github": "" },
+  { "id": 9, "title": "Authentication Server", "description": "OAuth2 / JWT server using IdentityServer.", "tech": ["IdentityServer",".NET","EF Core"], "github": "" },
+  { "id": 10, "title": "Deployment Automation", "description": "CI/CD pipelines for microservices.", "tech": ["Azure DevOps","Docker","Helm"], "github": "" }
+]
